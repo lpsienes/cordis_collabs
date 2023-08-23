@@ -1,4 +1,4 @@
-# cordis_collabs
+# cordis projects collaborations
 The code gets information regarding institution collaborators from CORDIS projects funded by the European Commission.
 Given the url of the project, it reads the coordinator institution, its collaborators and their financial contributions.
 
